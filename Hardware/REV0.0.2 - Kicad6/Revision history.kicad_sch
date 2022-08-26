@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 3e45c8f8-a714-4987-aff6-c36d1a5bef12)
+
+  (paper "A4")
+
+  (title_block
+    (title "Carbon S2")
+    (date "2021-12-08")
+    (rev "0.0.2")
+    (company "GroundStudio.ro")
+    (comment 1 "Schematic: Victor")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "REV 0.0.2:\n-changed GPIO3 with GPIO12 between R3 and R8 because GPIO12 cannot be pulled high while in flash mode\n-added revision history for schematic changes\n-added 100nF in parallel with R7 for better battery voltage level reading"
+    (at 17.78 24.13 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4a008111-6b27-47ca-8659-a2f4e20aaa4e)
+  )
+)
