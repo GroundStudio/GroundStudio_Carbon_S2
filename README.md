@@ -35,4 +35,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
 
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000008.html)   
+   
+[![certification-mark-RO000008-wide](https://github.com/GroundStudio/GroundStudio_Carbon_S2/assets/77836107/f2f13816-a6c7-4afa-a419-6b00ce5fa4fb)
+](https://certification.oshwa.org/ro000008.html)
+
 
