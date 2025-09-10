@@ -1,10 +1,10 @@
 GroundStudio Carbon S2
 ====================================
-[![Carbon S2 cropat la 150 h](https://user-images.githubusercontent.com/77836107/186916885-e3a1292c-aab6-49c3-9467-4f90047ad30f.png)](https://ardushop.ro/ro/home/2063-placa-de-dezvoltare-carbon-s2.html)
+[![Carbon S2 cropat la 150 h](https://user-images.githubusercontent.com/77836107/186916885-e3a1292c-aab6-49c3-9467-4f90047ad30f.png)](https://ardushop.ro/en/groundstudio/1814-placa-de-dezvoltare-carbon-s2-6427854000415.html#product-comments-list-header)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2063-placa-de-dezvoltare-carbon-s2.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/1814-placa-de-dezvoltare-carbon-s2-6427854000415.html#product-comments-list-header)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
